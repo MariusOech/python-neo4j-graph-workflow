@@ -7,6 +7,11 @@ This repository organizes the project into two complementary parts:
 - **Part I:** graph generation and export using Python only
 - **Part II:** Neo4j Aura integration inside the Python API, including graph retrieval and filtering outputs
 
+## Repository and live site
+
+- **Source repository:** [python-neo4j-graph-workflow](https://github.com/MariusOech/python-neo4j-graph-workflow)
+- **Live GitHub Pages site:** [mariusoech.github.io/python-neo4j-graph-workflow](https://mariusoech.github.io/python-neo4j-graph-workflow/)
+
 ## Workflow overview
 
 The following scheme summarizes the full workflow used in this repository, from the Python-only graph construction to the Aura-integrated workflow.
@@ -43,21 +48,25 @@ python-neo4j-graph-workflow/
 This first part corresponds to the **Python-only workflow**, where the graph is built and exported directly from Python.
 
 ### Main notebook
+
 - `notebooks/Graph-categorical-final.ipynb`
 
 ### Generated files
+
 - `graph_just_python.html` – interactive HTML graph generated from the Python workflow
 - `exports/neo4j_import_python.cypher` – Cypher script for graph import
 - `exports/nodes_python.csv` – exported node table
 - `exports/relationships_python.csv` – exported relationship table
 
 ### Description
+
 In this stage, the graph is created locally in Python and exported in multiple formats. The HTML file provides an interactive visualization of the generated graph, while the CSV and Cypher files allow import into Neo4j-compatible environments.
 
 ### Interactive output
-[Open the Python-generated graph](graph_just_python.html)
 
-GitHub may not render the interactive HTML file directly in the repository preview. For full interactivity, download the file and open it locally in a web browser.
+[Open the Python-generated graph](https://mariusoech.github.io/python-neo4j-graph-workflow/graph_just_python.html)
+
+If the page does not load immediately, wait a few minutes for GitHub Pages deployment to finish and refresh the site.
 
 ---
 
@@ -66,34 +75,41 @@ GitHub may not render the interactive HTML file directly in the repository previ
 This second part corresponds to the **Neo4j Aura workflow inside Python**, where Python connects to Aura, fetches graph elements, and generates additional interactive and filtered outputs.
 
 ### Main notebooks
+
 - `notebooks/Neo4j-FINAL-organized.ipynb`
 - `notebooks/Filter-interface.ipynb`
 
 ### Generated files
+
 - `aura_within_python.html` – interactive HTML graph generated from the Aura-connected workflow
 - `exports/cypher_fetch_used.cypher` – Cypher query used to fetch graph data
 - `exports/nodes_fetched.csv` – fetched nodes exported from Aura
 - `exports/rels_fetched.csv` – fetched relationships exported from Aura
 
 ### Description
+
 In this stage, Python interacts directly with Neo4j Aura through the API. The workflow retrieves nodes and relationships, exports them as CSV and Cypher-based outputs, and generates an additional interactive HTML visualization. The filtering notebook is used to refine and inspect the graph after data retrieval.
 
 ### Interactive output
-[Open the Aura-generated graph](aura_within_python.html)
 
-GitHub may not render the interactive HTML file directly in the repository preview. For full interactivity, download the file and open it locally in a web browser.
+[Open the Aura-generated graph](https://mariusoech.github.io/python-neo4j-graph-workflow/aura_within_python.html)
+
+If the page does not load immediately, wait a few minutes for GitHub Pages deployment to finish and refresh the site.
 
 ---
 
 ## Notebooks summary
 
 ### `Graph-categorical-final.ipynb`
+
 Builds the graph structure in Python and exports the initial visualization and import files.
 
 ### `Neo4j-FINAL-organized.ipynb`
+
 Connects Python to Neo4j Aura, queries the graph, and exports retrieved graph objects and visualization files.
 
 ### `Filter-interface.ipynb`
+
 Provides the filtering and inspection interface for the Aura-based graph workflow.
 
 ---
@@ -105,7 +121,7 @@ Provides the filtering and inspection interface for the Aura-based graph workflo
    - `Graph-categorical-final.ipynb` for the Python-only workflow
    - `Neo4j-FINAL-organized.ipynb` for the Aura-integrated workflow
    - `Filter-interface.ipynb` for filtering and inspection
-3. Open the generated HTML files locally in your browser to explore the interactive graph outputs.
+3. Open the generated HTML files through the GitHub Pages links above, or locally in your browser.
 4. Use the CSV and Cypher files in `exports/` for downstream analysis or Neo4j import.
 
 ---
