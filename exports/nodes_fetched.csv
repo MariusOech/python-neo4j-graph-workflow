@@ -1,0 +1,571 @@
+﻿id,label,name,frequency,modules,phase_mode,competence_mode,granularity_mode
+M1,Module,Modul_1 Einführung in psychische Traumatisierung_modifiziert_fuer_bessere_Maschinenlesbarkeit,0,0,,,
+M2,Module,Modul_2 Trauma & Flucht,0,0,,,
+M3,Module,Modul_3 Psychodynamik der Traumatisierung & das Verlaufsmodell nach Fischer,0,0,,,
+M4,Module,Modul_4 Psychologische Erste Hilfe für Geflüchtete (1),0,0,,,
+M5,Module,Modul_5 Traumatisierte Kinder & Familien begleiten,0,0,,,
+M6,Module,"Modul_6 Übertragung, Gegenübertragung & Grenzen im Umgang mit Traumatisierten",0,0,,,
+M7,Module,Modul_7 Komplexe Traumatisierung & Langzeitfolgen,0,0,,,
+M8,Module,Modul_8 Geschlechtsspezifische Gewalt (GBV) & Flucht,0,0,,,
+M9,Module,"Modul_9 Gemeinschaftsbasierte Gewalt, Rassismus & psychosoziale Unterstützung",0,0,,,
+M10,Module,Modul_10 Trauma und Migration & Kultursensible Arbeit,0,0,,,
+M1::slide_1,Slide,M1 / slide 1,0,0,,,
+M1::slide_2,Slide,M1 / slide 2,0,0,,,
+M1::slide_3,Slide,M1 / slide 3,0,0,,,
+M1::slide_4,Slide,M1 / slide 4,0,0,,,
+M1::slide_5,Slide,M1 / slide 5,0,0,,,
+M1::slide_6,Slide,M1 / slide 6,0,0,,,
+M1::slide_7,Slide,M1 / slide 7,0,0,,,
+M1::slide_8,Slide,M1 / slide 8,0,0,,,
+M1::slide_9,Slide,M1 / slide 9,0,0,,,
+M1::slide_10,Slide,M1 / slide 10,0,0,,,
+M1::slide_11,Slide,M1 / slide 11,0,0,,,
+M1::slide_12,Slide,M1 / slide 12,0,0,,,
+M1::slide_13,Slide,M1 / slide 13,0,0,,,
+M1::slide_14,Slide,M1 / slide 14,0,0,,,
+M1::slide_15,Slide,M1 / slide 15,0,0,,,
+M1::slide_16,Slide,M1 / slide 16,0,0,,,
+M1::slide_17,Slide,M1 / slide 17,0,0,,,
+M1::slide_18,Slide,M1 / slide 18,0,0,,,
+M1::slide_19,Slide,M1 / slide 19,0,0,,,
+M1::slide_20,Slide,M1 / slide 20,0,0,,,
+M1::slide_22,Slide,M1 / slide 22,0,0,,,
+M1::slide_23,Slide,M1 / slide 23,0,0,,,
+M1::slide_24,Slide,M1 / slide 24,0,0,,,
+M1::slide_25,Slide,M1 / slide 25,0,0,,,
+M1::slide_26,Slide,M1 / slide 26,0,0,,,
+M1::slide_27,Slide,M1 / slide 27,0,0,,,
+M1::slide_28,Slide,M1 / slide 28,0,0,,,
+M1::slide_29,Slide,M1 / slide 29,0,0,,,
+M1::slide_30,Slide,M1 / slide 30,0,0,,,
+M1::slide_31,Slide,M1 / slide 31,0,0,,,
+M1::slide_32,Slide,M1 / slide 32,0,0,,,
+M1::slide_33,Slide,M1 / slide 33,0,0,,,
+M1::slide_34,Slide,M1 / slide 34,0,0,,,
+M1::slide_35,Slide,M1 / slide 35,0,0,,,
+M1::slide_36,Slide,M1 / slide 36,0,0,,,
+M1::slide_37,Slide,M1 / slide 37,0,0,,,
+M1::slide_38,Slide,M1 / slide 38,0,0,,,
+M1::slide_39,Slide,M1 / slide 39,0,0,,,
+M1::slide_40,Slide,M1 / slide 40,0,0,,,
+M1::slide_41,Slide,M1 / slide 41,0,0,,,
+M1::slide_42,Slide,M1 / slide 42,0,0,,,
+M2::slide_1,Slide,M2 / slide 1,0,0,,,
+M2::slide_2,Slide,M2 / slide 2,0,0,,,
+M2::slide_3,Slide,M2 / slide 3,0,0,,,
+M2::slide_4,Slide,M2 / slide 4,0,0,,,
+M2::slide_5,Slide,M2 / slide 5,0,0,,,
+M2::slide_6,Slide,M2 / slide 6,0,0,,,
+M2::slide_7,Slide,M2 / slide 7,0,0,,,
+M2::slide_8,Slide,M2 / slide 8,0,0,,,
+M2::slide_9,Slide,M2 / slide 9,0,0,,,
+M2::slide_10,Slide,M2 / slide 10,0,0,,,
+M2::slide_11,Slide,M2 / slide 11,0,0,,,
+M2::slide_12,Slide,M2 / slide 12,0,0,,,
+M2::slide_13,Slide,M2 / slide 13,0,0,,,
+M2::slide_14,Slide,M2 / slide 14,0,0,,,
+M2::slide_15,Slide,M2 / slide 15,0,0,,,
+M2::slide_16,Slide,M2 / slide 16,0,0,,,
+M2::slide_17,Slide,M2 / slide 17,0,0,,,
+M2::slide_18,Slide,M2 / slide 18,0,0,,,
+M2::slide_19,Slide,M2 / slide 19,0,0,,,
+M2::slide_20,Slide,M2 / slide 20,0,0,,,
+M2::slide_21,Slide,M2 / slide 21,0,0,,,
+M2::slide_22,Slide,M2 / slide 22,0,0,,,
+M2::slide_23,Slide,M2 / slide 23,0,0,,,
+M2::slide_24,Slide,M2 / slide 24,0,0,,,
+M2::slide_25,Slide,M2 / slide 25,0,0,,,
+M2::slide_26,Slide,M2 / slide 26,0,0,,,
+M2::slide_27,Slide,M2 / slide 27,0,0,,,
+M2::slide_28,Slide,M2 / slide 28,0,0,,,
+M2::slide_29,Slide,M2 / slide 29,0,0,,,
+M2::slide_30,Slide,M2 / slide 30,0,0,,,
+M2::slide_31,Slide,M2 / slide 31,0,0,,,
+M2::slide_32,Slide,M2 / slide 32,0,0,,,
+M2::slide_33,Slide,M2 / slide 33,0,0,,,
+M2::slide_34,Slide,M2 / slide 34,0,0,,,
+M2::slide_35,Slide,M2 / slide 35,0,0,,,
+M2::slide_36,Slide,M2 / slide 36,0,0,,,
+M2::slide_37,Slide,M2 / slide 37,0,0,,,
+M2::slide_38,Slide,M2 / slide 38,0,0,,,
+M3::slide_1,Slide,M3 / slide 1,0,0,,,
+M3::slide_2,Slide,M3 / slide 2,0,0,,,
+M3::slide_3,Slide,M3 / slide 3,0,0,,,
+M3::slide_4,Slide,M3 / slide 4,0,0,,,
+M3::slide_5,Slide,M3 / slide 5,0,0,,,
+M3::slide_6,Slide,M3 / slide 6,0,0,,,
+M3::slide_7,Slide,M3 / slide 7,0,0,,,
+M3::slide_8,Slide,M3 / slide 8,0,0,,,
+M3::slide_9,Slide,M3 / slide 9,0,0,,,
+M3::slide_10,Slide,M3 / slide 10,0,0,,,
+M3::slide_11,Slide,M3 / slide 11,0,0,,,
+M3::slide_12,Slide,M3 / slide 12,0,0,,,
+M3::slide_13,Slide,M3 / slide 13,0,0,,,
+M3::slide_14,Slide,M3 / slide 14,0,0,,,
+M3::slide_15,Slide,M3 / slide 15,0,0,,,
+M3::slide_16,Slide,M3 / slide 16,0,0,,,
+M3::slide_25,Slide,M3 / slide 25,0,0,,,
+M3::slide_27,Slide,M3 / slide 27,0,0,,,
+M3::slide_29,Slide,M3 / slide 29,0,0,,,
+M3::slide_30,Slide,M3 / slide 30,0,0,,,
+M3::slide_33,Slide,M3 / slide 33,0,0,,,
+M4::slide_1,Slide,M4 / slide 1,0,0,,,
+M4::slide_2,Slide,M4 / slide 2,0,0,,,
+M4::slide_3,Slide,M4 / slide 3,0,0,,,
+M4::slide_4,Slide,M4 / slide 4,0,0,,,
+M4::slide_5,Slide,M4 / slide 5,0,0,,,
+M4::slide_6,Slide,M4 / slide 6,0,0,,,
+M4::slide_7,Slide,M4 / slide 7,0,0,,,
+M4::slide_8,Slide,M4 / slide 8,0,0,,,
+M4::slide_9,Slide,M4 / slide 9,0,0,,,
+M4::slide_10,Slide,M4 / slide 10,0,0,,,
+M4::slide_11,Slide,M4 / slide 11,0,0,,,
+M4::slide_12,Slide,M4 / slide 12,0,0,,,
+M4::slide_13,Slide,M4 / slide 13,0,0,,,
+M4::slide_14,Slide,M4 / slide 14,0,0,,,
+M4::slide_15,Slide,M4 / slide 15,0,0,,,
+M4::slide_16,Slide,M4 / slide 16,0,0,,,
+M4::slide_17,Slide,M4 / slide 17,0,0,,,
+M4::slide_18,Slide,M4 / slide 18,0,0,,,
+M4::slide_19,Slide,M4 / slide 19,0,0,,,
+M4::slide_20,Slide,M4 / slide 20,0,0,,,
+M4::slide_21,Slide,M4 / slide 21,0,0,,,
+M4::slide_22,Slide,M4 / slide 22,0,0,,,
+M4::slide_23,Slide,M4 / slide 23,0,0,,,
+M4::slide_24,Slide,M4 / slide 24,0,0,,,
+M4::slide_25,Slide,M4 / slide 25,0,0,,,
+M4::slide_26,Slide,M4 / slide 26,0,0,,,
+M4::slide_27,Slide,M4 / slide 27,0,0,,,
+M4::slide_28,Slide,M4 / slide 28,0,0,,,
+M4::slide_30,Slide,M4 / slide 30,0,0,,,
+M4::slide_31,Slide,M4 / slide 31,0,0,,,
+M4::slide_32,Slide,M4 / slide 32,0,0,,,
+M4::slide_33,Slide,M4 / slide 33,0,0,,,
+M4::slide_34,Slide,M4 / slide 34,0,0,,,
+M4::slide_35,Slide,M4 / slide 35,0,0,,,
+M4::slide_36,Slide,M4 / slide 36,0,0,,,
+M4::slide_37,Slide,M4 / slide 37,0,0,,,
+M5::slide_1,Slide,M5 / slide 1,0,0,,,
+M5::slide_2,Slide,M5 / slide 2,0,0,,,
+M5::slide_3,Slide,M5 / slide 3,0,0,,,
+M5::slide_4,Slide,M5 / slide 4,0,0,,,
+M5::slide_5,Slide,M5 / slide 5,0,0,,,
+M5::slide_6,Slide,M5 / slide 6,0,0,,,
+M5::slide_7,Slide,M5 / slide 7,0,0,,,
+M5::slide_8,Slide,M5 / slide 8,0,0,,,
+M5::slide_9,Slide,M5 / slide 9,0,0,,,
+M5::slide_10,Slide,M5 / slide 10,0,0,,,
+M5::slide_11,Slide,M5 / slide 11,0,0,,,
+M5::slide_12,Slide,M5 / slide 12,0,0,,,
+M5::slide_13,Slide,M5 / slide 13,0,0,,,
+M5::slide_14,Slide,M5 / slide 14,0,0,,,
+M5::slide_15,Slide,M5 / slide 15,0,0,,,
+M5::slide_16,Slide,M5 / slide 16,0,0,,,
+M5::slide_17,Slide,M5 / slide 17,0,0,,,
+M5::slide_18,Slide,M5 / slide 18,0,0,,,
+M5::slide_19,Slide,M5 / slide 19,0,0,,,
+M5::slide_20,Slide,M5 / slide 20,0,0,,,
+M5::slide_21,Slide,M5 / slide 21,0,0,,,
+M5::slide_22,Slide,M5 / slide 22,0,0,,,
+M5::slide_23,Slide,M5 / slide 23,0,0,,,
+M5::slide_24,Slide,M5 / slide 24,0,0,,,
+M5::slide_25,Slide,M5 / slide 25,0,0,,,
+M5::slide_26,Slide,M5 / slide 26,0,0,,,
+M5::slide_27,Slide,M5 / slide 27,0,0,,,
+M5::slide_28,Slide,M5 / slide 28,0,0,,,
+M5::slide_29,Slide,M5 / slide 29,0,0,,,
+M5::slide_30,Slide,M5 / slide 30,0,0,,,
+M5::slide_31,Slide,M5 / slide 31,0,0,,,
+M5::slide_32,Slide,M5 / slide 32,0,0,,,
+M5::slide_33,Slide,M5 / slide 33,0,0,,,
+M6::slide_1,Slide,M6 / slide 1,0,0,,,
+M6::slide_2,Slide,M6 / slide 2,0,0,,,
+M6::slide_3,Slide,M6 / slide 3,0,0,,,
+M6::slide_4,Slide,M6 / slide 4,0,0,,,
+M6::slide_5,Slide,M6 / slide 5,0,0,,,
+M6::slide_6,Slide,M6 / slide 6,0,0,,,
+M6::slide_7,Slide,M6 / slide 7,0,0,,,
+M6::slide_8,Slide,M6 / slide 8,0,0,,,
+M6::slide_9,Slide,M6 / slide 9,0,0,,,
+M6::slide_10,Slide,M6 / slide 10,0,0,,,
+M6::slide_11,Slide,M6 / slide 11,0,0,,,
+M6::slide_12,Slide,M6 / slide 12,0,0,,,
+M6::slide_13,Slide,M6 / slide 13,0,0,,,
+M6::slide_14,Slide,M6 / slide 14,0,0,,,
+M6::slide_15,Slide,M6 / slide 15,0,0,,,
+M6::slide_16,Slide,M6 / slide 16,0,0,,,
+M6::slide_17,Slide,M6 / slide 17,0,0,,,
+M6::slide_18,Slide,M6 / slide 18,0,0,,,
+M6::slide_19,Slide,M6 / slide 19,0,0,,,
+M6::slide_20,Slide,M6 / slide 20,0,0,,,
+M6::slide_21,Slide,M6 / slide 21,0,0,,,
+M6::slide_22,Slide,M6 / slide 22,0,0,,,
+M6::slide_23,Slide,M6 / slide 23,0,0,,,
+M6::slide_24,Slide,M6 / slide 24,0,0,,,
+M6::slide_25,Slide,M6 / slide 25,0,0,,,
+M7::slide_1,Slide,M7 / slide 1,0,0,,,
+M7::slide_2,Slide,M7 / slide 2,0,0,,,
+M7::slide_3,Slide,M7 / slide 3,0,0,,,
+M7::slide_4,Slide,M7 / slide 4,0,0,,,
+M7::slide_5,Slide,M7 / slide 5,0,0,,,
+M7::slide_6,Slide,M7 / slide 6,0,0,,,
+M7::slide_7,Slide,M7 / slide 7,0,0,,,
+M7::slide_8,Slide,M7 / slide 8,0,0,,,
+M7::slide_9,Slide,M7 / slide 9,0,0,,,
+M7::slide_10,Slide,M7 / slide 10,0,0,,,
+M7::slide_11,Slide,M7 / slide 11,0,0,,,
+M7::slide_12,Slide,M7 / slide 12,0,0,,,
+M7::slide_13,Slide,M7 / slide 13,0,0,,,
+M7::slide_14,Slide,M7 / slide 14,0,0,,,
+M7::slide_15,Slide,M7 / slide 15,0,0,,,
+M7::slide_16,Slide,M7 / slide 16,0,0,,,
+M7::slide_17,Slide,M7 / slide 17,0,0,,,
+M7::slide_18,Slide,M7 / slide 18,0,0,,,
+M7::slide_19,Slide,M7 / slide 19,0,0,,,
+M7::slide_20,Slide,M7 / slide 20,0,0,,,
+M7::slide_21,Slide,M7 / slide 21,0,0,,,
+M7::slide_22,Slide,M7 / slide 22,0,0,,,
+M7::slide_23,Slide,M7 / slide 23,0,0,,,
+M7::slide_24,Slide,M7 / slide 24,0,0,,,
+M7::slide_25,Slide,M7 / slide 25,0,0,,,
+M7::slide_26,Slide,M7 / slide 26,0,0,,,
+M7::slide_27,Slide,M7 / slide 27,0,0,,,
+M7::slide_28,Slide,M7 / slide 28,0,0,,,
+M7::slide_29,Slide,M7 / slide 29,0,0,,,
+M7::slide_30,Slide,M7 / slide 30,0,0,,,
+M7::slide_31,Slide,M7 / slide 31,0,0,,,
+M7::slide_32,Slide,M7 / slide 32,0,0,,,
+M7::slide_33,Slide,M7 / slide 33,0,0,,,
+M7::slide_34,Slide,M7 / slide 34,0,0,,,
+M7::slide_35,Slide,M7 / slide 35,0,0,,,
+M7::slide_36,Slide,M7 / slide 36,0,0,,,
+M7::slide_37,Slide,M7 / slide 37,0,0,,,
+M7::slide_38,Slide,M7 / slide 38,0,0,,,
+M7::slide_39,Slide,M7 / slide 39,0,0,,,
+M7::slide_40,Slide,M7 / slide 40,0,0,,,
+M7::slide_41,Slide,M7 / slide 41,0,0,,,
+M7::slide_42,Slide,M7 / slide 42,0,0,,,
+M7::slide_43,Slide,M7 / slide 43,0,0,,,
+M7::slide_44,Slide,M7 / slide 44,0,0,,,
+M7::slide_45,Slide,M7 / slide 45,0,0,,,
+M7::slide_46,Slide,M7 / slide 46,0,0,,,
+M7::slide_47,Slide,M7 / slide 47,0,0,,,
+M7::slide_48,Slide,M7 / slide 48,0,0,,,
+M7::slide_49,Slide,M7 / slide 49,0,0,,,
+M7::slide_51,Slide,M7 / slide 51,0,0,,,
+M7::slide_52,Slide,M7 / slide 52,0,0,,,
+M7::slide_53,Slide,M7 / slide 53,0,0,,,
+M7::slide_54,Slide,M7 / slide 54,0,0,,,
+M7::slide_55,Slide,M7 / slide 55,0,0,,,
+M7::slide_56,Slide,M7 / slide 56,0,0,,,
+M7::slide_57,Slide,M7 / slide 57,0,0,,,
+M7::slide_58,Slide,M7 / slide 58,0,0,,,
+M7::slide_59,Slide,M7 / slide 59,0,0,,,
+M7::slide_60,Slide,M7 / slide 60,0,0,,,
+M7::slide_61,Slide,M7 / slide 61,0,0,,,
+M8::slide_1,Slide,M8 / slide 1,0,0,,,
+M8::slide_2,Slide,M8 / slide 2,0,0,,,
+M8::slide_3,Slide,M8 / slide 3,0,0,,,
+M8::slide_4,Slide,M8 / slide 4,0,0,,,
+M8::slide_5,Slide,M8 / slide 5,0,0,,,
+M8::slide_6,Slide,M8 / slide 6,0,0,,,
+M8::slide_7,Slide,M8 / slide 7,0,0,,,
+M8::slide_8,Slide,M8 / slide 8,0,0,,,
+M8::slide_9,Slide,M8 / slide 9,0,0,,,
+M8::slide_10,Slide,M8 / slide 10,0,0,,,
+M8::slide_11,Slide,M8 / slide 11,0,0,,,
+M8::slide_12,Slide,M8 / slide 12,0,0,,,
+M8::slide_13,Slide,M8 / slide 13,0,0,,,
+M8::slide_14,Slide,M8 / slide 14,0,0,,,
+M8::slide_15,Slide,M8 / slide 15,0,0,,,
+M8::slide_16,Slide,M8 / slide 16,0,0,,,
+M8::slide_17,Slide,M8 / slide 17,0,0,,,
+M8::slide_18,Slide,M8 / slide 18,0,0,,,
+M8::slide_19,Slide,M8 / slide 19,0,0,,,
+M8::slide_20,Slide,M8 / slide 20,0,0,,,
+M8::slide_21,Slide,M8 / slide 21,0,0,,,
+M8::slide_22,Slide,M8 / slide 22,0,0,,,
+M8::slide_23,Slide,M8 / slide 23,0,0,,,
+M8::slide_24,Slide,M8 / slide 24,0,0,,,
+M8::slide_25,Slide,M8 / slide 25,0,0,,,
+M8::slide_26,Slide,M8 / slide 26,0,0,,,
+M8::slide_27,Slide,M8 / slide 27,0,0,,,
+M8::slide_28,Slide,M8 / slide 28,0,0,,,
+M8::slide_29,Slide,M8 / slide 29,0,0,,,
+M8::slide_30,Slide,M8 / slide 30,0,0,,,
+M9::slide_1,Slide,M9 / slide 1,0,0,,,
+M9::slide_2,Slide,M9 / slide 2,0,0,,,
+M9::slide_3,Slide,M9 / slide 3,0,0,,,
+M9::slide_4,Slide,M9 / slide 4,0,0,,,
+M9::slide_5,Slide,M9 / slide 5,0,0,,,
+M9::slide_6,Slide,M9 / slide 6,0,0,,,
+M9::slide_7,Slide,M9 / slide 7,0,0,,,
+M9::slide_8,Slide,M9 / slide 8,0,0,,,
+M9::slide_9,Slide,M9 / slide 9,0,0,,,
+M9::slide_10,Slide,M9 / slide 10,0,0,,,
+M9::slide_11,Slide,M9 / slide 11,0,0,,,
+M9::slide_12,Slide,M9 / slide 12,0,0,,,
+M9::slide_13,Slide,M9 / slide 13,0,0,,,
+M10::slide_1,Slide,M10 / slide 1,0,0,,,
+M10::slide_2,Slide,M10 / slide 2,0,0,,,
+M10::slide_3,Slide,M10 / slide 3,0,0,,,
+M10::slide_4,Slide,M10 / slide 4,0,0,,,
+M10::slide_5,Slide,M10 / slide 5,0,0,,,
+M10::slide_6,Slide,M10 / slide 6,0,0,,,
+M10::slide_7,Slide,M10 / slide 7,0,0,,,
+M10::slide_8,Slide,M10 / slide 8,0,0,,,
+M10::slide_9,Slide,M10 / slide 9,0,0,,,
+M10::slide_10,Slide,M10 / slide 10,0,0,,,
+M10::slide_11,Slide,M10 / slide 11,0,0,,,
+M10::slide_12,Slide,M10 / slide 12,0,0,,,
+M10::slide_13,Slide,M10 / slide 13,0,0,,,
+M10::slide_14,Slide,M10 / slide 14,0,0,,,
+M10::slide_15,Slide,M10 / slide 15,0,0,,,
+06.04.2025,Concept,06.04.2025,1,1,Situative,knowledge,middle
+07.04.2025,Concept,07.04.2025,5,1,Coping & Consequences,attitude,middle
+08.04.2025,Concept,08.04.2025,1,1,Situative,knowledge,middle
+18.05.2025,Concept,18.05.2025,1,1,,knowledge,middle
+19.10.2018,Concept,19.10.2018,7,2,Antecedent,knowledge,middle
+54321- Sehen-Hören-Empfinden,Concept,54321- Sehen-Hören-Empfinden,1,1,Coping & Consequences,skill,low
+ARBEIT MIT DOLMETSCHER:INNENWARUM SIND DOLMETSCHER:INNEN UNVERZICHTBAR?,Concept,ARBEIT MIT DOLMETSCHER:INNENWARUM SIND DOLMETSCHER:INNEN UNVERZICHTBAR?,1,1,Coping & Consequences,knowledge,middle
+Ablenkung durch Rechnen,Concept,Ablenkung durch Rechnen,1,1,,knowledge,low
+"Achte darauf, genug und regelmäßig zu essen und zu trinken",Concept,"Achte darauf, genug und regelmäßig zu essen und zu trinken",1,1,Coping & Consequences,skill,low
+Achtsamkeitsübung,Concept,Achtsamkeitsübung,1,1,Coping & Consequences,attitude,middle
+Akkulturationsprozesse,Concept,Akkulturationsprozesse,1,1,Antecedent,knowledge,middle
+Akutes Trauma – kurz und heftig :,Concept,Akutes Trauma – kurz und heftig :,1,1,Situative,knowledge,middle
+Angebote,Concept,Angebote,1,1,Coping & Consequences,skill,middle
+Atemübung,Concept,Atemübung,1,1,Coping & Consequences,skill,low
+Auf der Flucht,Concept,Auf der Flucht,4,2,Situative,knowledge,middle
+Ausgänge der postexpositorischen Phase,Concept,Ausgänge der postexpositorischen Phase,1,1,Coping & Consequences,knowledge,middle
+Auswirkungen auf den Körper – Das Trauma im Körpergedächtnis,Concept,Auswirkungen auf den Körper – Das Trauma im Körpergedächtnis,1,1,Situative,skill,middle
+Auswirkungen auf die Identität,Concept,Auswirkungen auf die Identität,1,1,Antecedent,knowledge,middle
+Auswirkungen gemeinschaftsbasierter Gewalt,Concept,Auswirkungen gemeinschaftsbasierter Gewalt,1,1,Coping & Consequences,knowledge,middle
+Behandlung komplexer PTBS & dissoziativer Störungen,Concept,Behandlung komplexer PTBS & dissoziativer Störungen,1,1,Coping & Consequences,skill,middle
+Belastungsfaktoren der sozialen Arbeit,Concept,Belastungsfaktoren der sozialen Arbeit,1,1,,attitude,middle
+Berücksichtigung von Konzentrations- und Aufmerksamkeitsstörungen,Concept,Berücksichtigung von Konzentrations- und Aufmerksamkeitsstörungen,1,1,,knowledge,middle
+Beschädigung der Grenzen zwischen den Generationen (Bohleber 2009),Concept,Beschädigung der Grenzen zwischen den Generationen (Bohleber 2009),1,1,,attitude,middle
+"Besondere Herausforderungen für geflüchtete Frauen, LGBTQ+ & nicht-binäre Personen",Concept,"Besondere Herausforderungen für geflüchtete Frauen, LGBTQ+ & nicht-binäre Personen",1,1,Situative,attitude,middle
+Besonderheiten in der Beratung/Therapie mit (traumatisierten) Geflüchteten,Concept,Besonderheiten in der Beratung/Therapie mit (traumatisierten) Geflüchteten,1,1,Coping & Consequences,knowledge,middle
+Betrachtung verschiedener Stufen der Dissoziation,Concept,Betrachtung verschiedener Stufen der Dissoziation,1,1,Coping & Consequences,knowledge,middle
+Bindung,Concept,Bindung,2,1,,knowledge,middle
+Bindung und Trauma –Über die transgenerationale Weitergabe einer tiefen Erschütterung,Concept,Bindung und Trauma –Über die transgenerationale Weitergabe einer tiefen Erschütterung,1,1,,knowledge,middle
+Biografische Schutzfaktoren,Concept,Biografische Schutzfaktoren,1,1,Antecedent,knowledge,middle
+Charakteristische Merkmale von Klient_innen,Concept,Charakteristische Merkmale von Klient_innen,1,1,Coping & Consequences,knowledge,middle
+Chronisches Trauma – dauerhaft belastend,Concept,Chronisches Trauma – dauerhaft belastend,1,1,Coping & Consequences,knowledge,middle
+DER TRAUMATISCHE PROZESS,Concept,DER TRAUMATISCHE PROZESS,1,1,,knowledge,middle
+DIE 4 PHASEN DES KULTURSCHOCKS,Concept,DIE 4 PHASEN DES KULTURSCHOCKS,1,1,Antecedent,knowledge,middle
+DIE FRAGE NACH IDENTITÄT,Concept,DIE FRAGE NACH IDENTITÄT,1,1,Antecedent,knowledge,middle
+DIE FRAGE NACH KULTUR,Concept,DIE FRAGE NACH KULTUR,2,2,,knowledge,middle
+DIE PERITRAUMATISCHE SITUATION,Concept,DIE PERITRAUMATISCHE SITUATION,1,1,Situative,knowledge,middle
+DISSOZIATION IN STUFEN,Concept,DISSOZIATION IN STUFEN,1,1,Coping & Consequences,knowledge,middle
+Da sein,Concept,Da sein,1,1,Coping & Consequences,knowledge,middle
+Danke!,Concept,Danke!,1,1,,knowledge,middle
+Das Fremde und das Eigene,Concept,Das Fremde und das Eigene,2,2,,knowledge,middle
+Das Kind als Container,Concept,Das Kind als Container,1,1,,skill,middle
+Das Leben im Exil,Concept,Das Leben im Exil,2,1,Antecedent,knowledge,middle
+Das Lymbische System und die Emotionen,Concept,Das Lymbische System und die Emotionen,1,1,Coping & Consequences,knowledge,middle
+Das Reptiliengehirn und seine Funktionen,Concept,Das Reptiliengehirn und seine Funktionen,1,1,,knowledge,middle
+Das weiße Blatt,Concept,Das weiße Blatt,1,1,,attitude,low
+Definition Gewalt,Concept,Definition Gewalt,1,1,Coping & Consequences,knowledge,high
+Definition gemeinschaftsbasierter Gewalt,Concept,Definition gemeinschaftsbasierter Gewalt,1,1,Situative,knowledge,high
+Den Kern des reifen kindlichen Selbst bildet der Andere im Moment der Reflexion,Concept,Den Kern des reifen kindlichen Selbst bildet der Andere im Moment der Reflexion,1,1,,knowledge,middle
+Depersonalisation/Derealisation:,Concept,Depersonalisation/Derealisation:,1,1,,knowledge,low
+Der Widerspruch als Grundlage des Verständnisses,Concept,Der Widerspruch als Grundlage des Verständnisses,1,1,Coping & Consequences,knowledge,middle
+Der Zusammenbruch der Grenzen,Concept,Der Zusammenbruch der Grenzen,2,1,Coping & Consequences,attitude,middle
+Die Begegnung mit dem Verlust,Concept,Die Begegnung mit dem Verlust,1,1,,knowledge,middle
+Die peritraumatische Situation,Concept,Die peritraumatische Situation,1,1,Situative,knowledge,middle
+Die Übermittlung traumatischer Erfahrungen,Concept,Die Übermittlung traumatischer Erfahrungen,1,1,,knowledge,middle
+Diskriminierungserfahrungen von Geflüchteten,Concept,Diskriminierungserfahrungen von Geflüchteten,1,1,Situative,knowledge,middle
+Dissoziation,Concept,Dissoziation,10,4,Coping & Consequences,knowledge,middle
+Dissoziative Amnesie:,Concept,Dissoziative Amnesie:,1,1,Coping & Consequences,knowledge,low
+Dissoziative Identitätsstörung (DIS):,Concept,Dissoziative Identitätsstörung (DIS):,1,1,Coping & Consequences,knowledge,low
+Dissoziative Störungen:,Concept,Dissoziative Störungen:,1,1,Coping & Consequences,knowledge,middle
+Distanzierungstechniken,Concept,Distanzierungstechniken,3,1,Coping & Consequences,skill,middle
+DistanzierungstechnikenFunktion,Concept,DistanzierungstechnikenFunktion,1,1,Coping & Consequences,skill,middle
+Distanzierungstechnikenwichtige Elemente,Concept,Distanzierungstechnikenwichtige Elemente,1,1,Coping & Consequences,attitude,middle
+"Dritte Phase des Verlaufsmodells (nach G. Fischer, P. Riedesser)",Concept,"Dritte Phase des Verlaufsmodells (nach G. Fischer, P. Riedesser)",1,1,Situative,knowledge,middle
+EINFÜHRUNG:,Concept,EINFÜHRUNG:,1,1,Antecedent,knowledge,high
+Ein Phantom entsteht,Concept,Ein Phantom entsteht,1,1,Coping & Consequences,knowledge,middle
+"Ein Phantom, das sich nicht abschütteln lässt",Concept,"Ein Phantom, das sich nicht abschütteln lässt",1,1,,knowledge,middle
+Ein Trauma ist eine seelische Verletzung durch ein überwältigendes Ereignis,Concept,Ein Trauma ist eine seelische Verletzung durch ein überwältigendes Ereignis,1,1,Coping & Consequences,knowledge,high
+"Eine Situation kann traumatisch wirken, wenn eine Person einer schwerwiegenden Bedrohung ausgesetzt ist und gleichzeitig erlebt, dass Kampf- oder Fluchtversuche ins Leere laufen. Entscheidend ist nicht nur das objektive Ereignis selbst, sondern ob die Situation die subjektiv verfügbaren Bewältigungsmöglichkeiten deutlich übersteigt und in der Folge Gefühle von, Hilflosigkeit oder Ausgeliefertsein auslöst. Das Erlebte kann dadurch das Vertrauen in Sicherheit, in andere Menschen oder in die eigene Handlungsfähigkeit nachhaltig erschüttern, und so das komplette Selbst- und Weltverständnis verändern. Ob ein traumatisches Ereignis tatsächlich zu einem psychischen Traumatisierung führt, bzw, ob oder wie gut man sich erholt hängt auch von der persönlichen Lebensgeschichte und Schutzfaktoren, wie Sicherheit und Vorhersehbarkeit spendenden sozialen Beziehungen und Lebensumständen vor und nach dem Schockerlebnis der traumatischen Situation ab. ”",Concept,"Eine Situation kann traumatisch wirken, wenn eine Person einer schwerwiegenden Bedrohung ausgesetzt ist und gleichzeitig erlebt, dass Kampf- oder Fluchtversuche ins Leere laufen. Entscheidend ist nicht nur das objektive Ereignis selbst, sondern ob die Situation die subjektiv verfügbaren Bewältigungsmöglichkeiten deutlich übersteigt und in der Folge Gefühle von, Hilflosigkeit oder Ausgeliefertsein auslöst. Das Erlebte kann dadurch das Vertrauen in Sicherheit, in andere Menschen oder in die eigene Handlungsfähigkeit nachhaltig erschüttern, und so das komplette Selbst- und Weltverständnis verändern. Ob ein traumatisches Ereignis tatsächlich zu einem psychischen Traumatisierung führt, bzw, ob oder wie gut man sich erholt hängt auch von der persönlichen Lebensgeschichte und Schutzfaktoren, wie Sicherheit und Vorhersehbarkeit spendenden sozialen Beziehungen und Lebensumständen vor und nach dem Schockerlebnis der traumatischen Situation ab. ”",1,1,Antecedent,knowledge,high
+Eine einfache Atemübung,Concept,Eine einfache Atemübung,1,1,,skill,low
+Eine hilfreiche Beratung fängt bei uns selbst an!,Concept,Eine hilfreiche Beratung fängt bei uns selbst an!,1,1,Coping & Consequences,attitude,middle
+Eine typische Äußerung,Concept,Eine typische Äußerung,1,1,,knowledge,middle
+Einfluss der Traumatisierung,Concept,Einfluss der Traumatisierung,1,1,,attitude,middle
+Einführung,Concept,Einführung,2,2,,knowledge,high
+Einführung in psychische Traumatisierung,Concept,Einführung in psychische Traumatisierung,1,1,,knowledge,high
+Einführung:,Concept,Einführung:,4,4,Situative,knowledge,high
+Einzeltrauma vs. Komplextrauma,Concept,Einzeltrauma vs. Komplextrauma,1,1,Situative,knowledge,middle
+Ermöglichung einer (korrigierenden) Beziehungserfahrung,Concept,Ermöglichung einer (korrigierenden) Beziehungserfahrung,1,1,Coping & Consequences,attitude,middle
+"Erste Phase des Verlaufsmodells (nach G. Fischer, P. Riedesser)",Concept,"Erste Phase des Verlaufsmodells (nach G. Fischer, P. Riedesser)",1,1,Situative,knowledge,middle
+"Es ist ein Unmögliches sich in alltäglichen Situationen der Kultur zu entziehen, denn wir sind ständig Teil davon. Gerade deswegen kann es sich als schwer herausstellen, kulturelle Leistungen bewusst wahrzunehmen.",Concept,"Es ist ein Unmögliches sich in alltäglichen Situationen der Kultur zu entziehen, denn wir sind ständig Teil davon. Gerade deswegen kann es sich als schwer herausstellen, kulturelle Leistungen bewusst wahrzunehmen.",2,2,,knowledge,middle
+FAZIT:,Concept,FAZIT:,1,1,Antecedent,attitude,high
+Fazit,Concept,Fazit,3,3,Coping & Consequences,attitude,high
+Fazit & Ausblick,Concept,Fazit & Ausblick,2,2,Coping & Consequences,attitude,high
+"Flucht, Migration und Identität",Concept,"Flucht, Migration und Identität",1,1,Antecedent,knowledge,middle
+Folgen der Durchlässigkeit der Grenzen (Kogan 2009),Concept,Folgen der Durchlässigkeit der Grenzen (Kogan 2009),1,1,,attitude,middle
+Folgen für die Kinder,Concept,Folgen für die Kinder,1,1,,knowledge,middle
+Formen geschlechtsspezifischer GewaltSexualisierte Gewalt:,Concept,Formen geschlechtsspezifischer GewaltSexualisierte Gewalt:,1,1,Situative,knowledge,middle
+Fragen ???,Concept,Fragen ???,1,1,,knowledge,middle
+Frühe Phase – Symptomkontrolle,Concept,Frühe Phase – Symptomkontrolle,1,1,Coping & Consequences,skill,middle
+Fördern positiver Erfahrungen,Concept,Fördern positiver Erfahrungen,1,1,,knowledge,middle
+Förderung von Integration (statt Separation oder Assimilierung),Concept,Förderung von Integration (statt Separation oder Assimilierung),1,1,,attitude,middle
+GELINGENDE ZUSAMMENARBEIT MIT DOLMETSCHER:INNEN,Concept,GELINGENDE ZUSAMMENARBEIT MIT DOLMETSCHER:INNEN,1,1,Coping & Consequences,knowledge,middle
+GLIEDERUNG,Concept,GLIEDERUNG,1,1,Coping & Consequences,skill,high
+GLIEDERUNG:,Concept,GLIEDERUNG:,1,1,Antecedent,attitude,high
+Geflüchtete und Trauma,Concept,Geflüchtete und Trauma,1,1,,knowledge,middle
+Gegenstand,Concept,Gegenstand,1,1,Coping & Consequences,knowledge,middle
+Gegenübertragung als Erkenntnisweg,Concept,Gegenübertragung als Erkenntnisweg,1,1,,attitude,middle
+Gegenübertragung im engeren Sinn,Concept,Gegenübertragung im engeren Sinn,1,1,Coping & Consequences,attitude,middle
+"Gemeinschaftsbasierte Gewalt, Rassismus & psychosoziale Unterstützung",Concept,"Gemeinschaftsbasierte Gewalt, Rassismus & psychosoziale Unterstützung",1,1,Situative,knowledge,middle
+Geschlechtsspezifische Gewalt (GBV) & Flucht,Concept,Geschlechtsspezifische Gewalt (GBV) & Flucht,1,1,Situative,knowledge,middle
+Gewaltbiografie:Frühe Gefährdung,Concept,Gewaltbiografie:Frühe Gefährdung,1,1,Coping & Consequences,knowledge,middle
+Gliederung,Concept,Gliederung,5,5,Antecedent,attitude,high
+Gliederung:,Concept,Gliederung:,2,2,Coping & Consequences,attitude,high
+Grounding,Concept,Grounding,3,1,Coping & Consequences,skill,middle
+Grundlagen der Traumaheilung – der Weg zurück ins Leben,Concept,Grundlagen der Traumaheilung – der Weg zurück ins Leben,1,1,Coping & Consequences,skill,high
+HERAUSFORDERUNGEN IN DER ZUSAMMENARBEIT,Concept,HERAUSFORDERUNGEN IN DER ZUSAMMENARBEIT,1,1,Coping & Consequences,knowledge,middle
+Haltung und Symptomverständnis,Concept,Haltung und Symptomverständnis,1,1,Coping & Consequences,attitude,middle
+Handlungsmöglichkeiten für Helfende,Concept,Handlungsmöglichkeiten für Helfende,1,1,Situative,attitude,middle
+"Handlungsspielräume nach dem Konzept der Lebenslagen (Glatzer und Hübinger, 1990)",Concept,"Handlungsspielräume nach dem Konzept der Lebenslagen (Glatzer und Hübinger, 1990)",1,1,,knowledge,middle
+Hauptunterschiede,Concept,Hauptunterschiede,1,1,,knowledge,middle
+Hilfreich bei der Verarbeitung von traumatischen Erfahrungen wirken z.B. :,Concept,Hilfreich bei der Verarbeitung von traumatischen Erfahrungen wirken z.B. :,1,1,Coping & Consequences,attitude,middle
+Hintergründe der Flucht von UMF,Concept,Hintergründe der Flucht von UMF,2,2,Coping & Consequences,knowledge,middle
+"Hinweis:	Alles was gut tut, ist erst einmal prinzipiell in Ordnung, aber oft sind diese sehr spontanen Impulse längerfristig mit Nebenwirkungen verbunden und werden deshalb auf Dauer ein Don´t …",Concept,"Hinweis:	Alles was gut tut, ist erst einmal prinzipiell in Ordnung, aber oft sind diese sehr spontanen Impulse längerfristig mit Nebenwirkungen verbunden und werden deshalb auf Dauer ein Don´t …",1,1,,skill,middle
+Hochstuhltechnik,Concept,Hochstuhltechnik,1,1,Coping & Consequences,skill,low
+Hyperventilation,Concept,Hyperventilation,3,1,Coping & Consequences,knowledge,middle
+Häufige Übertragungs-Gegenübertragungsaspekte,Concept,Häufige Übertragungs-Gegenübertragungsaspekte,1,1,,attitude,middle
+IDENTITÄTSVERLUST DURCH FLUCHT & MIGRATION,Concept,IDENTITÄTSVERLUST DURCH FLUCHT & MIGRATION,1,1,Antecedent,knowledge,middle
+INHALTSVERZEICHNIS,Concept,INHALTSVERZEICHNIS,1,1,Coping & Consequences,knowledge,high
+Institut für Trauma-Bearbeitung und Weiterbildung,Concept,Institut für Trauma-Bearbeitung und Weiterbildung,1,1,,knowledge,middle
+Institut für Traumabearbeitung und Weiterbildung Frankfurt,Concept,Institut für Traumabearbeitung und Weiterbildung Frankfurt,1,1,,knowledge,middle
+"Interkulturelle Kompetenz (Sue und Sue, 2013)",Concept,"Interkulturelle Kompetenz (Sue und Sue, 2013)",1,1,,knowledge,middle
+Intervention,Concept,Intervention,2,1,Coping & Consequences,skill,middle
+Interventionen,Concept,Interventionen,1,1,Coping & Consequences,skill,middle
+KOMPLEXE TRAUMATISIERUNG & LANGZEITFOLGEN,Concept,KOMPLEXE TRAUMATISIERUNG & LANGZEITFOLGEN,1,1,,knowledge,middle
+KULTURELLE TABUS – SENSIBLE THEMEN,Concept,KULTURELLE TABUS – SENSIBLE THEMEN,1,1,Situative,attitude,middle
+KULTURSENSIBLE HALTUNG & PRAKTISCHE TIPPS,Concept,KULTURSENSIBLE HALTUNG & PRAKTISCHE TIPPS,1,1,,attitude,middle
+Kampf,Concept,Kampf,1,1,Situative,knowledge,middle
+Komplexe PTBS nach J.L. Herman (1992),Concept,Komplexe PTBS nach J.L. Herman (1992),1,1,Coping & Consequences,knowledge,middle
+Komplexes Trauma – frühe und tiefe Wunden,Concept,Komplexes Trauma – frühe und tiefe Wunden,1,1,Coping & Consequences,knowledge,middle
+Komplextrauma:,Concept,Komplextrauma:,1,1,Situative,knowledge,middle
+Konfliktsensible Unterstützung von Gruppen,Concept,Konfliktsensible Unterstützung von Gruppen,1,1,Coping & Consequences,attitude,middle
+Konzept der traumatischen Reaktion nach Horowitz,Concept,Konzept der traumatischen Reaktion nach Horowitz,2,1,Coping & Consequences,knowledge,middle
+Kultur ist ... I,Concept,Kultur ist ... I,2,2,,knowledge,middle
+Kultur ist....,Concept,Kultur ist....,2,2,Antecedent,knowledge,middle
+Kultur und Exil,Concept,Kultur und Exil,1,1,Antecedent,knowledge,middle
+Kulturelle Adoleszenz,Concept,Kulturelle Adoleszenz,2,2,Antecedent,knowledge,middle
+Lernziele dieses Moduls,Concept,Lernziele dieses Moduls,1,1,Coping & Consequences,attitude,high
+MIGRATION UND IDENTITÄT,Concept,MIGRATION UND IDENTITÄT,2,2,Antecedent,knowledge,middle
+Migration,Concept,Migration,2,2,Antecedent,knowledge,high
+Multi-Kulti,Concept,Multi-Kulti,2,2,,knowledge,middle
+"Nach einem Trauma wird die Welt mit einem auf Gefahr Ausschau haltenden Nervensystem erlebt. Die Energie der Überlebenden richtet sich nun darauf, inneres Chaos zu unterdrücken, was sich in Symptomen wie… ausdrücken kann",Concept,"Nach einem Trauma wird die Welt mit einem auf Gefahr Ausschau haltenden Nervensystem erlebt. Die Energie der Überlebenden richtet sich nun darauf, inneres Chaos zu unterdrücken, was sich in Symptomen wie… ausdrücken kann",1,1,Coping & Consequences,knowledge,middle
+Neokortex unser “Aussichtspunkt”,Concept,Neokortex unser “Aussichtspunkt”,1,1,,knowledge,middle
+Neuropsychologie des Traumas,Concept,Neuropsychologie des Traumas,1,1,,knowledge,middle
+Notfallnummern:,Concept,Notfallnummern:,1,1,,knowledge,middle
+PHASEN DER MIGRATION,Concept,PHASEN DER MIGRATION,2,2,Antecedent,knowledge,middle
+POTENTIELL TRAUMATISCHE EREIGNISSE,Concept,POTENTIELL TRAUMATISCHE EREIGNISSE,2,2,,knowledge,middle
+PRAXISBEISPIELE FÜR KULTURSENSIBLE KOMMUNIKATION,Concept,PRAXISBEISPIELE FÜR KULTURSENSIBLE KOMMUNIKATION,1,1,,knowledge,middle
+PSYCHOSOZIALE FOLGEN VON IDENTITÄTSVERLUST,Concept,PSYCHOSOZIALE FOLGEN VON IDENTITÄTSVERLUST,1,1,Coping & Consequences,knowledge,middle
+Paradoxie der traumatischen Situation,Concept,Paradoxie der traumatischen Situation,1,1,Situative,knowledge,middle
+Phasen der Stabilisierung,Concept,Phasen der Stabilisierung,1,1,Coping & Consequences,skill,middle
+Phasen des Migrationsprozesses,Concept,Phasen des Migrationsprozesses,2,2,Antecedent,knowledge,middle
+Phasenorientierte Therapie,Concept,Phasenorientierte Therapie,1,1,Coping & Consequences,skill,middle
+Primat der Begegnung,Concept,Primat der Begegnung,1,1,Antecedent,attitude,middle
+Prävalenzen:Folgen der Gewalt,Concept,Prävalenzen:Folgen der Gewalt,1,1,Coping & Consequences,knowledge,middle
+Prävention,Concept,Prävention,1,1,,skill,middle
+Prävention & Resilienzförderung,Concept,Prävention & Resilienzförderung,1,1,Coping & Consequences,knowledge,middle
+Psychische Folgen,Concept,Psychische Folgen,1,1,,knowledge,middle
+Psychodynamik der Traumatisierung & das Verlaufsmodell nach Fischer,Concept,Psychodynamik der Traumatisierung & das Verlaufsmodell nach Fischer,1,1,,knowledge,middle
+Psychoedukation,Concept,Psychoedukation,1,1,Coping & Consequences,skill,middle
+Psychohygiene,Concept,Psychohygiene,3,2,Coping & Consequences,skill,middle
+"Psychologische Erste Hilfe für Geflüchtete
+https://docs.google.com/presentation/d/1V_5iL_pZTNjkazJ3p7-zAzlm44h6FuZ8/edit?slide=id.p12#slide=id.p12",Concept,"Psychologische Erste Hilfe für Geflüchtete
+https://docs.google.com/presentation/d/1V_5iL_pZTNjkazJ3p7-zAzlm44h6FuZ8/edit?slide=id.p12#slide=id.p12",1,1,,knowledge,middle
+"Pädagogik der Selbstbemächtigung (Weiß, 2009)",Concept,"Pädagogik der Selbstbemächtigung (Weiß, 2009)",2,2,,knowledge,middle
+Quellen:,Concept,Quellen:,2,2,Coping & Consequences,attitude,middle
+Resilienz fördern – innere Stärke entwickeln,Concept,Resilienz fördern – innere Stärke entwickeln,1,1,Coping & Consequences,knowledge,middle
+Ressourcen,Concept,Ressourcen,1,1,Coping & Consequences,knowledge,middle
+Ressourcenanker,Concept,Ressourcenanker,1,1,Coping & Consequences,skill,low
+SPRACHBARRIEREN & KULTURELLE TABUSSPRACHBARRIEREN – MEHR ALS FEHLENDE WORTE,Concept,SPRACHBARRIEREN & KULTURELLE TABUSSPRACHBARRIEREN – MEHR ALS FEHLENDE WORTE,1,1,Coping & Consequences,skill,middle
+STABILISIERUNG - WAS IST DAS?,Concept,STABILISIERUNG - WAS IST DAS?,1,1,Coping & Consequences,skill,high
+Sandor Ferenczi: Identifikation mit dem Aggressor,Concept,Sandor Ferenczi: Identifikation mit dem Aggressor,2,1,Coping & Consequences,knowledge,middle
+Schutzkonzepte & psychosoziale Unterstützung,Concept,Schutzkonzepte & psychosoziale Unterstützung,1,1,Coping & Consequences,skill,middle
+Schwierigkeiten,Concept,Schwierigkeiten,1,1,,knowledge,middle
+Schützende Faktoren,Concept,Schützende Faktoren,1,1,,attitude,middle
+Sicherheit,Concept,Sicherheit,1,1,,knowledge,middle
+Soziale & kollektive Traumaweitergabe,Concept,Soziale & kollektive Traumaweitergabe,1,1,Antecedent,knowledge,high
+Spezifische Hintergründe der Flucht von Mädchen und Frauen,Concept,Spezifische Hintergründe der Flucht von Mädchen und Frauen,2,2,Situative,knowledge,middle
+Spezifische Übertragungsangebote in der sozialen Arbeit,Concept,Spezifische Übertragungsangebote in der sozialen Arbeit,2,1,Coping & Consequences,attitude,middle
+"Spüre einmal die Weichheit eines Kleidungsstücks ganz bewusst für einige Momente auf der Haut, streiche mit der Hand über einen für Dich angenehmen Stoff und spür einen Moment lang diesem Empfinden in den Fingerspitzen etwas nach.",Concept,"Spüre einmal die Weichheit eines Kleidungsstücks ganz bewusst für einige Momente auf der Haut, streiche mit der Hand über einen für Dich angenehmen Stoff und spür einen Moment lang diesem Empfinden in den Fingerspitzen etwas nach.",1,1,Coping & Consequences,skill,high
+Stabilisierung kann nur auf freiwilliger Basis geschehen.,Concept,Stabilisierung kann nur auf freiwilliger Basis geschehen.,1,1,Coping & Consequences,skill,middle
+Stabilisierungstechniken,Concept,Stabilisierungstechniken,3,2,Coping & Consequences,skill,middle
+Starre (Freeze),Concept,Starre (Freeze),1,1,Coping & Consequences,knowledge,middle
+Stress reduzieren,Concept,Stress reduzieren,1,1,,knowledge,middle
+Struktureller & individueller Rassismus,Concept,Struktureller & individueller Rassismus,1,1,Situative,knowledge,middle
+Symptome,Concept,Symptome,1,1,Coping & Consequences,knowledge,middle
+TRAUMA UND MIGRATION & KULTURSENSIBLE ARBEIT,Concept,TRAUMA UND MIGRATION & KULTURSENSIBLE ARBEIT,1,1,Antecedent,knowledge,middle
+TRAUMASCHEMA UND TRAUMAKOMPENSATORISCHES SCHEMA,Concept,TRAUMASCHEMA UND TRAUMAKOMPENSATORISCHES SCHEMA,1,1,,knowledge,middle
+"TRAUMATISIERUNGEN KÖNNEN DAS LEBEN TIEFGREIFEND VERÄNDERN – BESONDERS, WENN SIE WIEDERHOLT UND IN BEZIEHUNGSKONTEXTEN STATTFINDEN.KOMPLEXE TRAUMATA BETREFFEN NICHT NUR DIE PSYCHE, SONDERN AUCH IDENTITÄT, BINDUNGSFÄHIGKEIT UND KÖRPERWAHRNEHMUNG.DIESE PRÄSENTATION GIBT EINEN ÜBERBLICK ÜBER URSACHEN, FOLGEN UND BEWÄHRTE INTERVENTIONSANSÄTZE BEI KOMPLEXER TRAUMATISIERUNG.",Concept,"TRAUMATISIERUNGEN KÖNNEN DAS LEBEN TIEFGREIFEND VERÄNDERN – BESONDERS, WENN SIE WIEDERHOLT UND IN BEZIEHUNGSKONTEXTEN STATTFINDEN.KOMPLEXE TRAUMATA BETREFFEN NICHT NUR DIE PSYCHE, SONDERN AUCH IDENTITÄT, BINDUNGSFÄHIGKEIT UND KÖRPERWAHRNEHMUNG.DIESE PRÄSENTATION GIBT EINEN ÜBERBLICK ÜBER URSACHEN, FOLGEN UND BEWÄHRTE INTERVENTIONSANSÄTZE BEI KOMPLEXER TRAUMATISIERUNG.",1,1,Coping & Consequences,skill,high
+"Terminologisch korrekt könnte von einem ""psychotraumatischen Belastungssyndrom "" (PTBS) gesprochen werden (vgl. Fischer & Riedesser 1998), das durch ein traumatisches Erlebnis entsteht und sich Zeitraum nach dem Ereignis zu einem Störungsbild verfestigen kann. Man erlebt so, als ob man dem Ereignis immer noch ausgesetzt wäre, obwohl es bereits vorbei ist.",Concept,"Terminologisch korrekt könnte von einem ""psychotraumatischen Belastungssyndrom "" (PTBS) gesprochen werden (vgl. Fischer & Riedesser 1998), das durch ein traumatisches Erlebnis entsteht und sich Zeitraum nach dem Ereignis zu einem Störungsbild verfestigen kann. Man erlebt so, als ob man dem Ereignis immer noch ausgesetzt wäre, obwohl es bereits vorbei ist.",1,1,Coping & Consequences,knowledge,high
+Therapieansätze:,Concept,Therapieansätze:,1,1,Coping & Consequences,knowledge,middle
+Transgenerationale Weitergabe von Traumata,Concept,Transgenerationale Weitergabe von Traumata,1,1,,knowledge,middle
+Transgenerationale Weitergabe von Traumata (R. Barwinski),Concept,Transgenerationale Weitergabe von Traumata (R. Barwinski),1,1,Coping & Consequences,attitude,middle
+Transkulturalität,Concept,Transkulturalität,4,2,Antecedent,attitude,middle
+Trauma,Concept,Trauma,1,1,,knowledge,middle
+Trauma & Flucht,Concept,Trauma & Flucht,1,1,,knowledge,middle
+"Trauma ist eine NORMALE psycho-physiologische Reaktion auf ein extrem bedrohliches, überlastendes Ereignis!",Concept,"Trauma ist eine NORMALE psycho-physiologische Reaktion auf ein extrem bedrohliches, überlastendes Ereignis!",1,1,Coping & Consequences,knowledge,middle
+Trauma- & schamsensible Gesprächsführung,Concept,Trauma- & schamsensible Gesprächsführung,1,1,Coping & Consequences,attitude,middle
+Traumafolgen,Concept,Traumafolgen,1,1,,knowledge,middle
+Traumareaktive Entwicklungen,Concept,Traumareaktive Entwicklungen,1,1,,knowledge,middle
+Traumaschema (TS),Concept,Traumaschema (TS),1,1,,knowledge,middle
+Traumatisierte Kinder & Familien begleiten,Concept,Traumatisierte Kinder & Familien begleiten,1,1,,knowledge,middle
+Traumatogene Psychodynamik traumatischer Gewalt,Concept,Traumatogene Psychodynamik traumatischer Gewalt,1,1,Situative,attitude,middle
+"Typen der Traumatisierung (Kogan, 1989 )",Concept,"Typen der Traumatisierung (Kogan, 1989 )",1,1,,knowledge,middle
+Typische Gegenübertragungshaltungen,Concept,Typische Gegenübertragungshaltungen,2,1,,attitude,low
+"Typisierung von Traumata (nach Terr, 1995)",Concept,"Typisierung von Traumata (nach Terr, 1995)",1,1,Situative,knowledge,middle
+Umgang mit Traumatisierten,Concept,Umgang mit Traumatisierten,1,1,,attitude,middle
+Unbewusste Vorurteile & deren Reflexion,Concept,Unbewusste Vorurteile & deren Reflexion,1,1,,attitude,middle
+Vererbte Wunden,Concept,Vererbte Wunden,1,1,,knowledge,middle
+Vererbte Wunden: Gefahr der transgenerationalen Weitergabe,Concept,Vererbte Wunden: Gefahr der transgenerationalen Weitergabe,1,1,,knowledge,middle
+Versorgung akut-traumatisierter Menschen,Concept,Versorgung akut-traumatisierter Menschen,1,1,,knowledge,middle
+Vielen Dank für,Concept,Vielen Dank für,1,1,,knowledge,middle
+Von der Transkulturellen Identität zur Hybriden Identität,Concept,Von der Transkulturellen Identität zur Hybriden Identität,1,1,Antecedent,knowledge,middle
+WAS IST EIN TRAUMA? – GRUNDBEGRIFFE,Concept,WAS IST EIN TRAUMA? – GRUNDBEGRIFFE,1,1,Antecedent,knowledge,high
+WAS IST KULTURSCHOCK? KULTURSCHOCK – EIN PSYCHODYNAMISCHER PROZESS,Concept,WAS IST KULTURSCHOCK? KULTURSCHOCK – EIN PSYCHODYNAMISCHER PROZESS,1,1,Antecedent,knowledge,high
+Was brauchen traumatisierte Menschen?,Concept,Was brauchen traumatisierte Menschen?,1,1,Coping & Consequences,knowledge,middle
+Was ist Stabilisierung?,Concept,Was ist Stabilisierung?,2,2,Coping & Consequences,skill,high
+Was ist ein Trauma?,Concept,Was ist ein Trauma?,1,1,Antecedent,knowledge,high
+Weitere Therapieansätze:,Concept,Weitere Therapieansätze:,1,1,Coping & Consequences,knowledge,middle
+Wenn Helfer selbst traumatisiert sind,Concept,Wenn Helfer selbst traumatisiert sind,1,1,Coping & Consequences,knowledge,middle
+Wie entsteht ein Helfer-Trauma?,Concept,Wie entsteht ein Helfer-Trauma?,1,1,Coping & Consequences,knowledge,middle
+Wie wird Trauma von einer Generation an die nächste weiter gegeben?,Concept,Wie wird Trauma von einer Generation an die nächste weiter gegeben?,1,1,,knowledge,middle
+Wiederherstellung eines Sicherheits- und Kontrollgefühls II,Concept,Wiederherstellung eines Sicherheits- und Kontrollgefühls II,1,1,,knowledge,middle
+Wiederherstellung eines Sicherheits- und Kontrollgefühls III,Concept,Wiederherstellung eines Sicherheits- und Kontrollgefühls III,1,1,,knowledge,middle
+Wiederherstellung eines Sicherheits- und Kontrollgefühls IV,Concept,Wiederherstellung eines Sicherheits- und Kontrollgefühls IV,1,1,Coping & Consequences,attitude,middle
+Wiederherstellung eines Sicherheits- und Kontrollgefühls V,Concept,Wiederherstellung eines Sicherheits- und Kontrollgefühls V,1,1,Situative,skill,middle
+Zeit,Concept,Zeit,1,1,,knowledge,middle
+Zielsetzungen der Übungen:,Concept,Zielsetzungen der Übungen:,2,1,Coping & Consequences,skill,low
+"Zweite Phase des Verlaufsmodells (nach G. Fischer, P. Riedesser)",Concept,"Zweite Phase des Verlaufsmodells (nach G. Fischer, P. Riedesser)",1,1,,knowledge,middle
+"sequentielle Traumatisierung (Keilson, 1979)",Concept,"sequentielle Traumatisierung (Keilson, 1979)",2,2,,knowledge,middle
+traumatisierungsbedingte Schwierigkeiten bei Menschen mit Fluchterfahrung,Concept,traumatisierungsbedingte Schwierigkeiten bei Menschen mit Fluchterfahrung,1,1,Coping & Consequences,knowledge,low
+traumatisierungsbedingte Schwierigkeiten bei Menschen mit Fluchterfahrung: Die Begegnung mit dem Verlust,Concept,traumatisierungsbedingte Schwierigkeiten bei Menschen mit Fluchterfahrung: Die Begegnung mit dem Verlust,1,1,,knowledge,middle
+Überraschungsei zusammenbauenund eine Geschichte erzählen,Concept,Überraschungsei zusammenbauenund eine Geschichte erzählen,1,1,Coping & Consequences,knowledge,middle
+"Übertragung, Gegenübertragung & Grenzen im Umgang mit Traumatisierten",Concept,"Übertragung, Gegenübertragung & Grenzen im Umgang mit Traumatisierten",1,1,,attitude,middle
+Übungen:,Concept,Übungen:,1,1,Coping & Consequences,skill,low
+"„Das Fremde ist in mir, also sind wir alle Fremde“(J. Kristeva1990)",Concept,"„Das Fremde ist in mir, also sind wir alle Fremde“(J. Kristeva1990)",2,2,,knowledge,middle
+"„Die stumme Phase des Erlebens“ (Lorenzer, A.; Thomä, H. 1965: Über die zweiphasige Symptomentwicklung bei traumatischen Neurosen)",Concept,"„Die stumme Phase des Erlebens“ (Lorenzer, A.; Thomä, H. 1965: Über die zweiphasige Symptomentwicklung bei traumatischen Neurosen)",1,1,Coping & Consequences,knowledge,middle
+„Kultur“ als Vermeidung,Concept,„Kultur“ als Vermeidung,2,2,Coping & Consequences,knowledge,middle
+„Warum kehren Frauen nach einer Trennung aufgrund von häuslicher Gewalt oftmals zurück?“,Concept,„Warum kehren Frauen nach einer Trennung aufgrund von häuslicher Gewalt oftmals zurück?“,1,1,Situative,knowledge,middle
+‹#›,Concept,‹#›,1,1,,knowledge,middle
+Antecedent,Phase,Antecedent,0,0,,,
+Coping & Consequences,Phase,Coping & Consequences,0,0,,,
+Situative,Phase,Situative,0,0,,,
+Unknown,Phase,Unknown,0,0,,,
+attitude,Competence,attitude,0,0,,,
+knowledge,Competence,knowledge,0,0,,,
+skill,Competence,skill,0,0,,,
+high,Granularity,high,0,0,,,
+low,Granularity,low,0,0,,,
+middle,Granularity,middle,0,0,,,
